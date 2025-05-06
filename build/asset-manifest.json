@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/navwuwa/static/css/main.f5c245b8.css",
+    "main.js": "/navwuwa/static/js/main.af990bea.js",
+    "static/media/WUWA BG.gif": "/navwuwa/static/media/WUWA BG.cfd6bb259f35afc7960a.gif",
+    "static/media/mizuena_xmas.png": "/navwuwa/static/media/mizuena_xmas.d018e0e898d0dab9fefb.png",
+    "static/media/artportfolio.png": "/navwuwa/static/media/artportfolio.2efeee2b15c516cbe885.png",
+    "static/media/loadingproj.png": "/navwuwa/static/media/loadingproj.babbce89d7ca7495e73c.png",
+    "static/media/shinonomeena.png": "/navwuwa/static/media/shinonomeena.8d6eb3903d4837a60b8a.png",
+    "static/media/EnaBang.png": "/navwuwa/static/media/EnaBang.2f362be5fb2176f6fa5c.png",
+    "static/media/mangdurugas.png": "/navwuwa/static/media/mangdurugas.c7adad5d0c1a8f8c8b0f.png",
+    "static/media/what.png": "/navwuwa/static/media/what.05e65a8eba0089e37517.png",
+    "static/media/contacts.png": "/navwuwa/static/media/contacts.c281ad7fb8eb7aed489f.png",
+    "static/media/epic.png": "/navwuwa/static/media/epic.c1231ad58a2fe18227b7.png",
+    "static/media/finalsproj.png": "/navwuwa/static/media/finalsproj.ba95923ef39f470acd4f.png",
+    "static/media/samurai.png": "/navwuwa/static/media/samurai.5383b8ed9d0e58370c2e.png",
+    "static/media/enaglasses.png": "/navwuwa/static/media/enaglasses.2ff932aeadcffd490612.png",
+    "static/media/studentenrollment.png": "/navwuwa/static/media/studentenrollment.932b2e45c276a866e83e.png",
+    "static/media/Signika-VariableFont_GRAD,wght.ttf": "/navwuwa/static/media/Signika-VariableFont_GRAD,wght.26fb9c4e91a558eb79b1.ttf",
+    "static/media/mizuena1.png": "/navwuwa/static/media/mizuena1.d4175e23fb4feed8a43f.png",
+    "static/media/sofi.png": "/navwuwa/static/media/sofi.44882b000467efb05254.png",
+    "static/media/enaNY.png": "/navwuwa/static/media/enaNY.8951eca20ad3964e001e.png",
+    "static/media/encore.gif": "/navwuwa/static/media/encore.ba310bae006ab3138e5a.gif",
+    "index.html": "/navwuwa/index.html",
+    "main.f5c245b8.css.map": "/navwuwa/static/css/main.f5c245b8.css.map",
+    "main.af990bea.js.map": "/navwuwa/static/js/main.af990bea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c245b8.css",
+    "static/js/main.af990bea.js"
+  ]
+}
